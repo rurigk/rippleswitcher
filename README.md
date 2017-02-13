@@ -31,7 +31,7 @@ Open the Internet Explorer configuration by running
 ```
 wine control
 ```
-Double click the Internet Settings icon, navigate to the Content    tab, then click the Certificates… button.
+Double click the Internet Settings icon, navigate to the Content tab, then click the Certificates… button.    
 Click on Import, then Next.    
 Click Browse… then select the Ripple certificate.    
 Click Next.    
