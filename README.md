@@ -31,12 +31,12 @@ Open the Internet Explorer configuration by running
 ```
 wine control
 ```
-Double click the Internet Settings icon, navigate to the Content tab, then click the Certificates… button.
-Click on Import, then Next.
-Click Browse… then select the Ripple certificate.
-Click Next.
-Select Place all certificates in the following store, and click Browse.
-Select Trusted Root Certification Authorities, and click Ok.
-Click Next, Finish.
-You should get a message saying The import was successful.
-After that is done, you can start the client up, and log in with your Ripple credentials.
+Double click the Internet Settings icon, navigate to the Content    tab, then click the Certificates… button.
+Click on Import, then Next.    
+Click Browse… then select the Ripple certificate.    
+Click Next.    
+Select Place all certificates in the following store, and click Browse.    
+Select Trusted Root Certification Authorities, and click Ok.    
+Click Next, Finish.    
+You should get a message saying The import was successful.    
+After that is done, you can start the client up, and log in with your Ripple credentials.    
